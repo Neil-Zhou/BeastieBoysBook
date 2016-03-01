@@ -1,1 +1,5 @@
-# BeastieBoysBook
+# 兔崽子漫画 App(Object-c)
+### 功能描述
+1、漫画列表<br/>
+2、分类查询<br/>
+3、关键字搜索功能<br/>
